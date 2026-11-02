@@ -5,40 +5,6 @@ Passionate about Bayesian modeling, deep learning, and building data-intensive s
 
 ---
 
-##  About Me
-
--  MSc Computer Science (ML, AI & Data Science) — Aalto University *(in progress)*
--  Former **Research Assistant** at Aalto's Software Defined Radio Group — C++ SDR systems, USRP synchronization & MATLAB signal analysis
--  Bachelor's thesis on **Audio Watermarking using Deep Learning** — compared five SOTA neural network models in the context of the EU AI Act
--  Love the full Bayesian workflow: EDA → modeling → posterior predictive checks → model comparison
-
----
-
-##  Featured Projects
-
-###  [Classification of Handwritten Greek Letters](https://github.com/samuelmikkola/projectreports/tree/main/Machine_learning)
-Logistic Regression + PCA pipeline for multi-class classification of handwritten Greek characters.  
-`Python` `scikit-learn` `NumPy` `Pandas` `Matplotlib`
-
-###  [Bayesian Analysis of SARS-CoV-2 PCR Test Results](https://github.com/samuelmikkola/projectreports/tree/main/Bayesian_Data_analysis)
-Large-scale Bayesian analysis of 15,000+ COVID-19 PCR test observations from 88 clinics. Built hierarchical logistic regression models with clinic-level random intercepts, compared via LOO cross-validation.  
-`Python` `Bayesian Workflow` `Hierarchical Models` `LOO-CV`
-
-###  [Audio Watermarking Using Deep Learning](https://github.com/samuelmikkola/projectreports/tree/main/Audio_Watermarking_Using_DeepLearning)
-Comparative analysis of five neural audio watermarking models (RobustDNN, WavMark, MaskMark, AudioSeal, SilentCipher) on imperceptibility, capacity, and robustness to attacks.  
-`Deep Learning` `Audio ML` `EU AI Act`
-
-###  [SQL Project](https://github.com/samuelmikkola/sql_project)
-Database design and querying project.  
-`SQL`
-
-###  [DevOps Project](https://github.com/samuelmikkola/devops-project)
-Cloud-native application deployment with containerization and infrastructure as code.  
-`Python` `Docker` `Kubernetes` `Google Cloud Platform` `OpenTofu`
-
-
----
-
 ##  Skills & Tools
 
 **Languages**  
